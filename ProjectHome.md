@@ -1,0 +1,1 @@
+A collection of scripts for managing backups on Unix
